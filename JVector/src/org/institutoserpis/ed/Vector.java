@@ -67,7 +67,7 @@ public static void selectionSOrt(int[] v){
 	}
 }}
 
-
+ 
 
 
 
