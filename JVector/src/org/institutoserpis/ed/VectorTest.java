@@ -22,7 +22,13 @@ public class VectorTest {
 		assertEquals(4, Vector.indexOf(new int[]{32, 15, 7, 9, 12}, 12));
 		assertEquals(-1, Vector.indexOf(new int[]{32, 15, 7, 9, 12}, 99));
 	}
-
+@Test
+public void selectionSort(){
+	int[] v = new int[]{32, 15, 7, 9, 12};
+	Vector.selectionSOrt(v);
+	assertArrayEquals(new int[]{7, 9, 12, 15, 32}, v);
+}
+	                                           
 }
 
 
