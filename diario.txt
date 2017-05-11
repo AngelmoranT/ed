@@ -4,4 +4,9 @@
 							-monodevelop-versioncontrol
 							-monodoc-browser
 							-monodoc-gtk2.0-manual
-							-monodoc-nunic-manual  
+							-monodoc-nunic-manual 
+
+
+
+Instalados para android studio:
+libc6:i386  
