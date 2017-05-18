@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinarSiEresHoMYSiEresMayorDeEdadOMenor", "AdivinarSiEresHoMYSiEresMayorDeEdadOMenor\AdivinarSiEresHoMYSiEresMayorDeEdadOMenor.csproj", "{95FBA822-4D21-4AB2-B56E-34C34C1EF67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FBA822-4D21-4AB2-B56E-34C34C1EF67F}.Debug|x86.ActiveCfg = Debug|x86
+		{95FBA822-4D21-4AB2-B56E-34C34C1EF67F}.Debug|x86.Build.0 = Debug|x86
+		{95FBA822-4D21-4AB2-B56E-34C34C1EF67F}.Release|x86.ActiveCfg = Release|x86
+		{95FBA822-4D21-4AB2-B56E-34C34C1EF67F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AdivinarSiEresHoMYSiEresMayorDeEdadOMenor\AdivinarSiEresHoMYSiEresMayorDeEdadOMenor.csproj
+	EndGlobalSection
+EndGlobal
